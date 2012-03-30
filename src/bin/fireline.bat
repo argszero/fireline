@@ -1,1 +1,1 @@
-node ../app/fireline.js
+node ../nodejs/fireline.js
