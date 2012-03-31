@@ -1,1 +1,1 @@
-node ../nodejs/fireline.js
+node ../nodejs/fireline.js  -p 8001
