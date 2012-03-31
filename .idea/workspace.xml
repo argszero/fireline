@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d1b860c-5ba6-4833-bd97-a060c4acc8eb" name="Default" comment="">
+    <list default="true" id="3d1b860c-5ba6-4833-bd97-a060c4acc8eb" name="Default" comment="remove useless comments">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fireline/src/node_modules/commander/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fireline/src/node_modules/commander/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fireline/src/node_modules/commander/History.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fireline/src/node_modules/commander/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fireline/src/node_modules/commander/Readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fireline/src/node_modules/commander/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fireline/src/node_modules/commander/lib/commander.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fireline/src/node_modules/commander/package.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fireline/src/fireline.js" afterPath="$PROJECT_DIR$/fireline/src/fireline.js" />
     </list>
     <ignored path="fireline.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -60,35 +67,7 @@
     <favorites_list name="fireline" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="fireline.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/fireline/src/fireline.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="19" selection-start="153" selection-end="153" vertical-scroll-proportion="0.15912898">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="signin.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fireline/src/app/signin.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="8" selection-start="741" selection-end="741" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="web.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/fireline/src/app/web.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="34" selection-start="301" selection-end="301" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -211,6 +190,32 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="commander" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fireline" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fireline" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fireline" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="commander" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -530,12 +535,16 @@
       <created>1333162963519</created>
       <updated>1333162963519</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="remove useless comments">
+      <created>1333163639186</created>
+      <updated>1333163639186</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="786" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -551,7 +560,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26645005" sideWeight="0.6704" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26645005" sideWeight="0.6704" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -596,7 +605,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor name of directories" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove useless comments" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -611,6 +620,7 @@
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="add sign.js" />
     <MESSAGE value="refactor name of directories" />
+    <MESSAGE value="remove useless comments" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -681,21 +691,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fireline/src/app/web.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="34" selection-start="301" selection-end="301" vertical-scroll-proportion="0.0">
+        <state line="8" column="34" selection-start="301" selection-end="301" vertical-scroll-proportion="0.25460637">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fireline/src/app/signin.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="8" selection-start="741" selection-end="741" vertical-scroll-proportion="0.0">
+        <state line="22" column="8" selection-start="741" selection-end="741" vertical-scroll-proportion="0.7001675">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/fireline/src/fireline.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="19" selection-start="153" selection-end="153" vertical-scroll-proportion="0.15912898">
+        <state line="11" column="10" selection-start="307" selection-end="307" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fireline/src/node_modules/commander/lib/commander.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="12" selection-start="128" selection-end="128" vertical-scroll-proportion="0.31825796">
           <folding />
         </state>
       </provider>
