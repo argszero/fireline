@@ -1,1 +1,1 @@
-node ../src/fireline.js  -p 8001
+node ../src/dojo/bootstrap.js load=app -p 8001
