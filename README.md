@@ -48,5 +48,9 @@
 * 4. 同步时只需要将这些sql按照顺序执行一下就可以了
 * 如何做自定义跟踪、统计项？
 
+## 同道中人
+* https://github.com/refuge/refuge
+* http://blog.jondh.me.uk/meshing/
 ## 设计：
 等着吧，啥时候有空时弄弄
+
